@@ -1,0 +1,553 @@
+@media(max-width:1199px) {
+    .hero_card {
+        height: 180px;
+    }
+
+    .why,
+    .solution,
+    .offer,
+    .experts,
+    .trust {
+        padding: 100px 20px;
+    }
+
+    .footer {
+        padding: 40px 20px;
+    }
+}
+
+@media(max-width:1024px) {
+    h1 {
+        font-size: 46px;
+    }
+
+    h2 {
+        font-size: 36px;
+    }
+
+    .divider {
+        display: none;
+    }
+
+    .hero .col-md-6 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .hero_content h5 {
+        width: auto;
+        font-size: 16px;
+    }
+
+    .hero_content {
+        align-items: center;
+        text-align: center;
+        padding-top: 145px;
+    }
+
+    .hcard_row {
+        display: none;
+    }
+
+    .event,
+    .solution,
+    .offer,
+    .experts,
+    .trust {
+        padding: 80px 15px;
+    }
+
+    .why {
+        padding: 80px 0px;
+    }
+
+    .why_content {
+        margin: 0;
+        padding: 80px 10px;
+    }
+
+    .why .container {
+        padding: 0;
+    }
+
+    .why_card {
+        height: 300px;
+        padding: 30px 15px;
+    }
+
+    .whycol {
+        width: 50%;
+    }
+
+    .why_card {
+        height: auto;
+    }
+
+    .whycol2 {
+        display: block;
+        width: 100%;
+    }
+
+    .solution_content {
+        text-align: left;
+    }
+
+    .btn-style2 {
+        margin-left: 0;
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+    .solution_image {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .solution_image img {
+        width: 100%;
+    }
+
+    .nav-pills .nav-link.active,
+    .nav-pills .show>.nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .nav-pills .nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .offer_list {
+        padding: 0;
+    }
+
+    .ocard {
+        width: 50%;
+    }
+
+    .offerings {
+        margin-bottom: 24px;
+    }
+
+    .offer_button {
+        text-align: center;
+        margin: 0px;
+        margin-top: 20px;
+        width: 100%;
+        margin-left: auto;
+    }
+
+    .event_content {
+        margin: 0;
+    }
+
+       .event_content li p {
+        font-size: 18px;
+    }
+
+    .expert_images {
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .partners {
+        display: flex;
+        text-align: center;
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    .partners img {
+        width: 65%;
+    }
+
+    .footer_content {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .social {
+        justify-content: center;
+    }
+
+    .cc_linkeng {
+        width: 60%;
+    }
+
+}
+
+@media(max-width:991px) {
+
+
+
+
+    .divider {
+        padding: 0px 0px;
+    }
+
+}
+
+@media(max-width:767px) {
+    .header {
+
+        display: none;
+    }
+
+    .btn-canvas {
+
+        display: block;
+
+        position: absolute;
+
+        right: 8px;
+
+        top: 8px;
+
+    }
+
+    .divider {
+        padding: 0px 0px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .hero_content h5 {
+        width: auto;
+        font-size: 16px;
+    }
+
+    .hero_content {
+        align-items: center;
+        text-align: center;
+        padding-top: 145px;
+    }
+
+    .hcard_row {
+        display: none;
+    }
+
+    .solution,
+    .offer,
+    .experts,
+    .trust {
+        padding: 80px 15px;
+    }
+
+    .why {
+        padding: 0px;
+    }
+
+    .whycol {
+        width: 100%;
+    }
+
+    .whycol_discover {
+        display: block;
+    }
+
+    .why_card {
+        height: auto;
+    }
+
+    .whycol2 {
+        display: none;
+    }
+
+    .why .container {
+        padding: 0;
+
+    }
+
+    .why_content {
+        margin: 0;
+        padding: 100px 20px;
+    }
+
+    .why .col-md-4 {
+        padding: 0;
+    }
+
+    .why_card {
+        height: auto;
+    }
+
+    .ocard {
+        width: 100%;
+    }
+
+    .solution_content {
+        text-align: center;
+    }
+
+    .btn-style2 {
+        margin-left: 0;
+        margin-top: 0;
+        margin-left: 10px;
+    }
+
+    .solution_image {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .solution_image img {
+        width: 50%;
+    }
+
+    .nav-pills .nav-link.active,
+    .nav-pills .show>.nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .nav-pills .nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .offer_list {
+        padding: 0;
+        display: none;
+    }
+
+    .prlist {
+        display: none;
+    }
+
+    .price_list {
+        margin-bottom: 20px;
+    }
+
+    .price_list li {
+        font-size: 16px;
+        color: var(--cs-title);
+        padding: 10px 0px;
+    }
+
+    .price_list_premium li {
+        color: #fff;
+    }
+
+
+    .price_list li i {
+        font-size: 25px;
+        margin-right: 15px;
+    }
+
+    .olist2 {
+        display: block;
+    }
+
+    .offer_button {
+        text-align: center;
+        margin: 0px;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .event_content {
+        margin: 0;
+    }
+
+    .event {
+        padding: 10px 10px 30px 10px;
+    }
+
+    .event_content li p {
+        font-size: 18px;
+    }
+
+    .event_con_card {
+
+        width: 90%;
+
+    }
+
+    .expert_images {
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .partners {
+        display: flex;
+        text-align: center;
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    .partners img {
+        width: 65%;
+    }
+
+    .footer_content {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .social {
+        justify-content: center;
+    }
+
+    .cc_linkeng {
+        width: 60%;
+    }
+
+    .cc_link {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .modal-dialog-scrollable .modal-body {
+        overflow-y: auto;
+        padding: 30px;
+    }
+}
+
+@media(max-width:425px) {
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .hero_content h5 {
+        width: auto;
+        font-size: 16px;
+    }
+
+    .hero_content {
+        align-items: center;
+        text-align: center;
+        padding-top: 145px;
+    }
+
+    .hcard_row {
+        display: none;
+    }
+
+    .why,
+    .solution,
+    .offer,
+    .experts,
+    .trust {
+        padding: 60px 15px;
+
+    }
+
+    .why_content {
+        margin: 0;
+        padding: 20px;
+    }
+
+    .why .col-md-4 {
+        padding: 0;
+    }
+
+    .why_card {
+        height: auto;
+    }
+
+    .solution_content {
+        text-align: center;
+    }
+
+    .btn-style2 {
+        margin-left: 0;
+        margin-top: 0px;
+    }
+
+    .solution_image {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .solution_image img {
+        width: 100%;
+    }
+
+    .nav-pills .nav-link.active,
+    .nav-pills .show>.nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .nav-pills .nav-link {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .offer_list {
+        padding: 0;
+    }
+
+    .offer_button {
+        text-align: center;
+        margin: 0px;
+        margin-top: 20px;
+    }
+
+    .event_content {
+        margin: 0;
+    }
+
+    .event {
+        padding: 10px 10px 30px 10px;
+    }
+
+    .event_content li p {
+        font-size: 16px;
+    }
+
+    .expert_images {
+        text-align: center;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .partners {
+        display: block;
+        text-align: center;
+        padding: 0;
+        padding-top: 20px;
+    }
+
+    .partners img {
+        width: 30%;
+    }
+
+    .footer_content {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .social {
+        justify-content: center;
+    }
+
+    .cc_linkeng,
+    .cc_link {
+        width: 100%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+}
+
+@media(max-width:402px) {
+    .btn-style2 {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+}
