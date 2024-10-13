@@ -1,5 +1,2 @@
-# cashless
 
-Visit: https://faruq05.github.io/cashless/
-# cashless
-# cashless
+# https://zellyo-digital0.github.io/cashless
